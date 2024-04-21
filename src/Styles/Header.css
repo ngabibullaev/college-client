@@ -1,0 +1,43 @@
+.img-phone {
+    background-image: url("/src/assets/header.jpg");
+    background-repeat: no-repeat;
+    position: fixed;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    border-bottom: 1px solid rgb(119, 119, 119);
+    z-index: 100;
+    
+}
+
+.img-section2 {
+    width: 60px;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.img-width2 {
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+
+.header-name {
+    font-size: 2.5vh;
+    font-weight: 700;
+    color: transparent;
+    background: #ffffff;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 0px 3px 3px rgba(119, 88, 88, 0.5);
+}
